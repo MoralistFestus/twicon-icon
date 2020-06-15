@@ -56,6 +56,44 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
+/* colors */
+
+.basic {
+  color: #1297ff;
+}
+.secondary {
+  color: #828282;
+}
+.danger {
+  color: #FF3232;
+}
+.gold {
+  color: #ffd700;
+}
+.cool {
+  color: #004646;
+}
+.soft {
+  color: #820082;
+}
+.light {
+  color: #ffffff;
+}
+.dark {
+  color: #1e1e1e;
+}
+.vital {
+  color: #ff6432;
+}
+.bg-light {
+  background-color: #ffffff;
+}
+.bg-dark {
+  background-color: #1e1e1e;
+}
+
+
+
  /* Font sizing */
 
 .twicon-lg {

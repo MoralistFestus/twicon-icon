@@ -95,6 +95,16 @@ Specify the icon color by applying the `color` CSS property on the `.twicon` cla
   color: blue;
 }
 ```
+Few inbuilt colors are available for use. You need to add the color attribute to the icon like `.dark`.
+
+The following colors are available:
+basic, secondary, danger, gold, cool, soft, light, dark, vital
+
+```html
+<i class="twicon-github twicon-5x dark"></i>
+<i class="twicon-twitter twicon-5x vital"></i>
+```
+
 
 ## Stroke weight
 When using an `outline` icon variant it is possible to adjust the stroke weight, for improved visual balance relative to the icon's size or relative to the weight of adjacent text. You can set a specific size by applying the `--ionicon-stroke-weight` CSS custom property to the `.twicon` component. The default value is 32px.

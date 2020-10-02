@@ -1,6 +1,6 @@
 # Twicon icons
 
-[twicon](http://twicon.github.io/) is a completely open-source icon set with 800+ icons crafted for web, iOS, Android, and desktop apps. Twicon icon was built for [Twinkle css Framework](https://twinklecss.com/), so icons have both Material Design and iOS versions.
+[twicon](https://github.com/MoralistFestus/twicon-icon) is a completely open-source icon set with 800+ icons crafted for web, iOS, Android, and desktop apps. Twicon icon was built for [Twinkle css Framework](https://github.com/MoralistFestus/twinklecss), so icons have both Material Design and iOS versions.
 
 This icons can applied in your projects to give your project a beautiful looking icons, twicon icons comes with a lot of inbuilt functionalities to make your great icon looks.
 
@@ -12,9 +12,7 @@ We intend for this icon pack to be used with [twinklecss](http://twinkless.com/)
 ## Contributing
 
 Thanks for your interest in contributing! Read up on our guidelines for
-[contributing](https://github.com/twicon-team/twicon/blob/master/.github/CONTRIBUTING.md)
-and then look through our issues with a [help wanted](https://github.com/ionic-team/ionicons/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-label.
+[contributing](https://github.com/MoralistFestus/twicon-icon/blob/master/CONTRIBUTING.md) and follow the guidelines.
 
 
 ## Using the icon 
@@ -24,8 +22,8 @@ The twicon icons Component is an easy and performant way to use twicon in your a
 
 ### Installation
 
-If you're using [twicon Framework](https://github.com/programmerFestus/twinklecss),  clone or download from the github repository, twicon is packaged by default, so no installation is necessary. Want to use twicon icons with twinkle css Framework? 
-clone the icon [here](https://github.com/programmerFestus/twicon-icon)
+If you're using [twicon Framework](https://github.com/MoralistFestus/twicon-icon),  clone or download from the github repository, twicon is packaged by default, so no installation is necessary. Want to use twicon icons with twinkle css Framework? 
+clone the icon [here](https://github.com/MoralistFestus/twinklecss)
 
 ### Including twicon in your projects
 
@@ -87,7 +85,6 @@ Or you can set a specific size by applying the `font-size` CSS property on the `
 ```
 
 ## Color
-
 Specify the icon color by applying the `color` CSS property on the `.twicon` class component.
 
 ```css
@@ -107,7 +104,7 @@ basic, secondary, danger, gold, cool, soft, light, dark, vital
 
 
 ## Stroke weight
-When using an `outline` icon variant it is possible to adjust the stroke weight, for improved visual balance relative to the icon's size or relative to the weight of adjacent text. You can set a specific size by applying the `--ionicon-stroke-weight` CSS custom property to the `.twicon` component. The default value is 32px.
+When using an `outline` icon variant it is possible to adjust the stroke weight, for improved visual balance relative to the icon's size or relative to the weight of adjacent text. You can set a specific size by applying the `--twicon-stroke-weight` CSS custom property to the `.twicon` component. The default value is 32px.
 
 ```html
 <i class="twicon-camera"></i>

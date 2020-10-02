@@ -99,7 +99,7 @@
 }
 
 .twicon-rotate-90 {
-  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
@@ -107,10 +107,46 @@
   transform: rotate(90deg);
   display: inline-block;
 }
+
 .twicon-rotate-180 {
-  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
   -webkit-transform: rotate(180deg);
   -moz-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
   -o-transform: rotate(180deg);
-  transform
+  transform: rotate(180deg);
+  display: inline-block;
+}
+
+.twicon-rotate-270 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=4);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+  display: inline-block;
+}
+
+.twicon-flip-horizontal {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+  display: inline-block;
+}
+.twicon-flip-vertical {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+  display: inline-block;
+}
+:root: .twicon-rotate-45,
+:root .twicon-rotate-90,
+:root .twicon-rotate-180,
+:root .twicon-rotate-270,
+:root .twicon-flip-horizontal,
+:root .twicon-flip-vertical {
+  filter: none;
+}

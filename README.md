@@ -19,6 +19,13 @@ Thanks for your interest in contributing! Read up on our guidelines for
 
 The twicon icons Component is an easy and performant way to use twicon in your app. The component will dynamically load an SVG for each icon, so your app is only requesting the icons that you need.
 
+### CDN
+```html
+https://cdn.jsdelivr.net/gh/MoralistFestus/twicon-icon/css/twicon.css
+```
+```html
+https://cdn.jsdelivr.net/gh/MoralistFestus/twicon-icon/css/twicon.min.css
+```
 
 ### Installation
 

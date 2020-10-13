@@ -21,11 +21,22 @@ The twicon icons Component is an easy and performant way to use twicon in your a
 
 ### CDN
 ```html
+    <!-- Releases by tagged name -->
+   <!-- not recommended for production purposes -->
 https://cdn.jsdelivr.net/gh/MoralistFestus/twicon-icon/css/twicon.css
+   
+   <!-- Changes with Minor releases -->
+https://cdn.jsdelivr.net/gh/MoralistFestus/twicon-icon@0.1.1/css/twicon.css
+  
+   <!-- Changes with Minor releases -->
+https://cdn.jsdelivr.net/gh/MoralistFestus/twicon-icon@1.1.1/css/twicon.css
+
+   <!-- Changes with Major releases - recommended with full featured releases (latest) -->
+https://cdn.jsdelivr.net/gh/MoralistFestus/twicon-icon@1.2.1/css/twicon.css
+
+
 ```
-```html
-https://cdn.jsdelivr.net/gh/MoralistFestus/twicon-icon/css/twicon.min.css
-```
+You can as well use the minifed version by replacing the **twicon.css** with **twicon.min.css**
 
 ### Installation
 

@@ -1,0 +1,2473 @@
+
+/************
+
+      TWICON SVG SPRITES FEATURES
+       This  feature  contains  format  for
+         working with svg class attribute.
+        
+     You can be more comfortable using the
+          sprite feature of twicon icon
+             
+************/
+
+.svg {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+  background-color: #fff;
+}
+.svghome {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.svghome2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.svghome3 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.svgoffice {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.svgnewspaper {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.svgpencil {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.svgpencil2 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.svgquill {
+  width: 32px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.svgpen {
+  width: 32px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.svgblog {
+  width: 32px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.svgeyedropper {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.svgdroplet {
+  width: 32px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.svgpaint-format {
+  width: 32px;
+  height: 32px;
+  background-position: -576px 0;
+}
+.svgimage {
+  width: 32px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.svgimages {
+  width: 36px;
+  height: 32px;
+  background-position: -672px 0;
+}
+.svgcamera {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.svgheadphones {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -48px;
+}
+.svgmusic {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.svgplay {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+.svgfilm {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+.svgvideo-camera {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -48px;
+}
+.svgdice {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -48px;
+}
+.svgpacman {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -48px;
+}
+.svgspades {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -48px;
+}
+.svgclubs {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -48px;
+}
+.svgdiamonds {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -48px;
+}
+.svgbullhorn {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -48px;
+}
+.svgconnection {
+  width: 40px;
+  height: 32px;
+  background-position: -576px -48px;
+}
+.svgpodcast {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -48px;
+}
+.svgfeed {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -48px;
+}
+.svgmic {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -48px;
+}
+.svgbook {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -96px;
+}
+.svgbooks {
+  width: 36px;
+  height: 32px;
+  background-position: -48px -96px;
+}
+.svglibrary {
+  width: 34px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+.svgfile-text {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -96px;
+}
+.svgprofile {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -96px;
+}
+.svgfile-empty {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -96px;
+}
+.svgfiles-empty {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -96px;
+}
+.svgfile-text2 {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -96px;
+}
+.svgfile-picture {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -96px;
+}
+.svgfile-music {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -96px;
+}
+.svgfile-play {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -96px;
+}
+.svgfile-video {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -96px;
+}
+.svgfile-zip {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -96px;
+}
+.svgcopy {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -96px;
+}
+.svgpaste {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -96px;
+}
+.svgstack {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -96px;
+}
+.svgfolder {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -144px;
+}
+.svgfolder-open {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -144px;
+}
+.svgfolder-plus {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -144px;
+}
+.svgfolder-minus {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -144px;
+}
+.svgfolder-download {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -144px;
+}
+.svgfolder-upload {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -144px;
+}
+.svgprice-tag {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -144px;
+}
+.svgprice-tags {
+  width: 40px;
+  height: 32px;
+  background-position: -336px -144px;
+}
+.svgbarcode {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -144px;
+}
+.svgqrcode {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -144px;
+}
+.svgticket {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -144px;
+}
+.svgcart {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -144px;
+}
+.svgcoin-dollar {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -144px;
+}
+.svgcoin-euro {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -144px;
+}
+.svgcoin-pound {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -144px;
+}
+.svgcoin-yen {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -144px;
+}
+.svgcredit-card {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -192px;
+}
+.svgcalculator {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -192px;
+}
+.svglifebuoy {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -192px;
+}
+.svgphone {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -192px;
+}
+.svgphone-hang-up {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -192px;
+}
+.svgaddress-book {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -192px;
+}
+.svgenvelop {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -192px;
+}
+.svgpushpin {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -192px;
+}
+.svglocation {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -192px;
+}
+.svglocation2 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -192px;
+}
+.svgcompass {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -192px;
+}
+.svgcompass2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -192px;
+}
+.svgmap {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -192px;
+}
+.svgmap2 {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -192px;
+}
+.svghistory {
+  width: 34px;
+  height: 32px;
+  background-position: -672px -192px;
+}
+.svgclock {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -240px;
+}
+.svgclock2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -240px;
+}
+.svgalarm {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -240px;
+}
+.svgbell {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -240px;
+}
+.svgstopwatch {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -240px;
+}
+.svgcalendar {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -240px;
+}
+.svgprinter {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -240px;
+}
+.svgkeyboard {
+  width: 36px;
+  height: 32px;
+  background-position: -336px -240px;
+}
+.svgdisplay {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -240px;
+}
+.svglaptop {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -240px;
+}
+.svgmobile {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -240px;
+}
+.svgmobile2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -240px;
+}
+.svgtablet {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -240px;
+}
+.svgtv {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -240px;
+}
+.svgdrawer {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -240px;
+}
+.svgdrawer2 {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -240px;
+}
+.svgbox-add {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -288px;
+}
+.svgbox-remove {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -288px;
+}
+.svgdownload {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -288px;
+}
+.svgupload {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -288px;
+}
+.svgfloppy-disk {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -288px;
+}
+.svgdrive {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -288px;
+}
+.svgdatabase {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -288px;
+}
+.svgundo {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -288px;
+}
+.svgredo {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -288px;
+}
+.svgundo2 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -288px;
+}
+.svgredo2 {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -288px;
+}
+.svgforward {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -288px;
+}
+.svgreply {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -288px;
+}
+.svgbubble {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -288px;
+}
+.svgbubbles {
+  width: 36px;
+  height: 32px;
+  background-position: -672px -288px;
+}
+.svgbubbles2 {
+  width: 36px;
+  height: 32px;
+  background-position: 0 -336px;
+}
+.svgbubble2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -336px;
+}
+.svgbubbles3 {
+  width: 36px;
+  height: 32px;
+  background-position: -96px -336px;
+}
+.svgbubbles4 {
+  width: 36px;
+  height: 32px;
+  background-position: -144px -336px;
+}
+.svguser {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -336px;
+}
+.svgusers {
+  width: 36px;
+  height: 32px;
+  background-position: -240px -336px;
+}
+.svguser-plus {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -336px;
+}
+.svguser-minus {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -336px;
+}
+.svguser-check {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -336px;
+}
+.svguser-tie {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -336px;
+}
+.svgquotes-left {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -336px;
+}
+.svgquotes-right {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -336px;
+}
+.svghour-glass {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -336px;
+}
+.svgspinner {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -336px;
+}
+.svgspinner2 {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -336px;
+}
+.svgspinner3 {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -336px;
+}
+.svgspinner4 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -384px;
+}
+.svgspinner5 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -384px;
+}
+.svgspinner6 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -384px;
+}
+.svgspinner7 {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -384px;
+}
+.svgspinner8 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -384px;
+}
+.svgspinner9 {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -384px;
+}
+.svgspinner10 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -384px;
+}
+.svgspinner11 {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -384px;
+}
+.svgbinoculars {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -384px;
+}
+.svgsearch {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -384px;
+}
+.svgzoom-in {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -384px;
+}
+.svgzoom-out {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -384px;
+}
+.svgenlarge {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -384px;
+}
+.svgshrink {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -384px;
+}
+.svgenlarge2 {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -384px;
+}
+.svgshrink2 {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -384px;
+}
+.svgkey {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -432px;
+}
+.svgkey2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -432px;
+}
+.svglock {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -432px;
+}
+.svgunlocked {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -432px;
+}
+.svgwrench {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -432px;
+}
+.svgequalizer {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -432px;
+}
+.svgequalizer2 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -432px;
+}
+.svgcog {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -432px;
+}
+.svgcogs {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -432px;
+}
+.svghammer {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -432px;
+}
+.svgmagic-wand {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -432px;
+}
+.svgaid-kit {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -432px;
+}
+.svgbug {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -432px;
+}
+.svgpie-chart {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -432px;
+}
+.svgstats-dots {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -432px;
+}
+.svgstats-bars {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -432px;
+}
+.svgstats-bars2 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -480px;
+}
+.svgtrophy {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -480px;
+}
+.svggift {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -480px;
+}
+.svgglass {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -480px;
+}
+.svgglass2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -480px;
+}
+.svgmug {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -480px;
+}
+.svgspoon-knife {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -480px;
+}
+.svgleaf {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -480px;
+}
+.svgrocket {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -480px;
+}
+.svgmeter {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -480px;
+}
+.svgmeter2 {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -480px;
+}
+.svghammer2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -480px;
+}
+.svgfire {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -480px;
+}
+.svglab {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -480px;
+}
+.svgmagnet {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -480px;
+}
+.svgbin {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -480px;
+}
+.svgbin2 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -528px;
+}
+.svgbriefcase {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -528px;
+}
+.svgairplane {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -528px;
+}
+.svgtruck {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -528px;
+}
+.svgroad {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -528px;
+}
+.svgaccessibility {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -528px;
+}
+.svgtarget {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -528px;
+}
+.svgshield {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -528px;
+}
+.svgpower {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -528px;
+}
+.svgswitch {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -528px;
+}
+.svgpower-cord {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -528px;
+}
+.svgclipboard {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -528px;
+}
+.svglist-numbered {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -528px;
+}
+.svglist {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -528px;
+}
+.svglist2 {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -528px;
+}
+.svgtree {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -528px;
+}
+.svgmenu {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -576px;
+}
+.svgmenu2 {
+  width: 44px;
+  height: 32px;
+  background-position: -48px -576px;
+}
+.svgmenu3 {
+  width: 44px;
+  height: 32px;
+  background-position: -144px -576px;
+}
+.svgmenu4 {
+  width: 44px;
+  height: 32px;
+  background-position: -240px -576px;
+}
+.svgcloud {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -576px;
+}
+.svgcloud-download {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -576px;
+}
+.svgcloud-upload {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -576px;
+}
+.svgcloud-check {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -576px;
+}
+.svgdownload2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -576px;
+}
+.svgupload2 {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -576px;
+}
+.svgdownload3 {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -576px;
+}
+.svgupload3 {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -576px;
+}
+.svgsphere {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -576px;
+}
+.svgearth {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -624px;
+}
+.svglink {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -624px;
+}
+.svgflag {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -624px;
+}
+.svgattachment {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -624px;
+}
+.svgeye {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -624px;
+}
+.svgeye-plus {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -624px;
+}
+.svgeye-minus {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -624px;
+}
+.svgeye-blocked {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -624px;
+}
+.svgbookmark {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -624px;
+}
+.svgbookmarks {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -624px;
+}
+.svgsun {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -624px;
+}
+.svgcontrast {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -624px;
+}
+.svgbrightness-contrast {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -624px;
+}
+.svgstar-empty {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -624px;
+}
+.svgstar-half {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -624px;
+}
+.svgstar-full {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -624px;
+}
+.svgheart {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -672px;
+}
+.svgheart-broken {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -672px;
+}
+.svgman {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -672px;
+}
+.svgwoman {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -672px;
+}
+.svgman-woman {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -672px;
+}
+.svghappy {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -672px;
+}
+.svghappy2 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -672px;
+}
+.svgsmile {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -672px;
+}
+.svgsmile2 {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -672px;
+}
+.svgtongue {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -672px;
+}
+.svgtongue2 {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -672px;
+}
+.svgsad {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -672px;
+}
+.svgsad2 {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -672px;
+}
+.svgwink {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -672px;
+}
+.svgwink2 {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -672px;
+}
+.svggrin {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -672px;
+}
+.svggrin2 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -720px;
+}
+.svgcool {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -720px;
+}
+.svgcool2 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -720px;
+}
+.svgangry {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -720px;
+}
+.svgangry2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -720px;
+}
+.svgevil {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -720px;
+}
+.svgevil2 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -720px;
+}
+.svgshocked {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -720px;
+}
+.svgshocked2 {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -720px;
+}
+.svgbaffled {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -720px;
+}
+.svgbaffled2 {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -720px;
+}
+.svgconfused {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -720px;
+}
+.svgconfused2 {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -720px;
+}
+.svgneutral {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -720px;
+}
+.svgneutral2 {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -720px;
+}
+.svghipster {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -720px;
+}
+.svghipster2 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -768px;
+}
+.svgwondering {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -768px;
+}
+.svgwondering2 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -768px;
+}
+.svgsleepy {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -768px;
+}
+.svgsleepy2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -768px;
+}
+.svgfrustrated {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -768px;
+}
+.svgfrustrated2 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -768px;
+}
+.svgcrying {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -768px;
+}
+.svgcrying2 {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -768px;
+}
+.svgpoint-up {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -768px;
+}
+.svgpoint-right {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -768px;
+}
+.svgpoint-down {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -768px;
+}
+.svgpoint-left {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -768px;
+}
+.svgwarning {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -768px;
+}
+.svgnotification {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -768px;
+}
+.svgquestion {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -768px;
+}
+.svgplus {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -816px;
+}
+.svgminus {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -816px;
+}
+.svginfo {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -816px;
+}
+.svgcancel-circle {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -816px;
+}
+.svgblocked {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -816px;
+}
+.svgcross {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -816px;
+}
+.svgcheckmark {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -816px;
+}
+.svgcheckmark2 {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -816px;
+}
+.svgspell-check {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -816px;
+}
+.svgenter {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -816px;
+}
+.svgexit {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -816px;
+}
+.svgplay2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -816px;
+}
+.svgpause {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -816px;
+}
+.svgstop {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -816px;
+}
+.svgprevious {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -816px;
+}
+.svgnext {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -816px;
+}
+.svgbackward {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -864px;
+}
+.svgforward2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -864px;
+}
+.svgplay3 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -864px;
+}
+.svgpause2 {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -864px;
+}
+.svgstop2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -864px;
+}
+.svgbackward2 {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -864px;
+}
+.svgforward3 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -864px;
+}
+.svgfirst {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -864px;
+}
+.svglast {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -864px;
+}
+.svgprevious2 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -864px;
+}
+.svgnext2 {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -864px;
+}
+.svgeject {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -864px;
+}
+.svgvolume-high {
+  width: 34px;
+  height: 32px;
+  background-position: -576px -864px;
+}
+.svgvolume-medium {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -864px;
+}
+.svgvolume-low {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -864px;
+}
+.svgvolume-mute {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -864px;
+}
+.svgvolume-mute2 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -912px;
+}
+.svgvolume-increase {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -912px;
+}
+.svgvolume-decrease {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -912px;
+}
+.svgloop {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -912px;
+}
+.svgloop2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -912px;
+}
+.svginfinite {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -912px;
+}
+.svgshuffle {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -912px;
+}
+.svgarrow-up-left {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -912px;
+}
+.svgarrow-up {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -912px;
+}
+.svgarrow-up-right {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -912px;
+}
+.svgarrow-right {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -912px;
+}
+.svgarrow-down-right {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -912px;
+}
+.svgarrow-down {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -912px;
+}
+.svgarrow-down-left {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -912px;
+}
+.svgarrow-left {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -912px;
+}
+.svgarrow-up-left2 {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -912px;
+}
+.svgarrow-up2 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -960px;
+}
+.svgarrow-up-right2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -960px;
+}
+.svgarrow-right2 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -960px;
+}
+.svgarrow-down-right2 {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -960px;
+}
+.svgarrow-down2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -960px;
+}
+.svgarrow-down-left2 {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -960px;
+}
+.svgarrow-left2 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -960px;
+}
+.svgcircle-up {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -960px;
+}
+.svgcircle-right {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -960px;
+}
+.svgcircle-down {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -960px;
+}
+.svgcircle-left {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -960px;
+}
+.svgtab {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -960px;
+}
+.svgmove-up {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -960px;
+}
+.svgmove-down {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -960px;
+}
+.svgsort-alpha-asc {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -960px;
+}
+.svgsort-alpha-desc {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -960px;
+}
+.svgsort-numeric-asc {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1008px;
+}
+.svgsort-numberic-desc {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1008px;
+}
+.svgsort-amount-asc {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1008px;
+}
+.svgsort-amount-desc {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1008px;
+}
+.svgcommand {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1008px;
+}
+.svgshift {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1008px;
+}
+.svgctrl {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1008px;
+}
+.svgopt {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1008px;
+}
+.svgcheckbox-checked {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1008px;
+}
+.svgcheckbox-unchecked {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1008px;
+}
+.svgradio-checked {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1008px;
+}
+.svgradio-checked2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1008px;
+}
+.svgradio-unchecked {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1008px;
+}
+.svgcrop {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1008px;
+}
+.svgmake-group {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1008px;
+}
+.svgungroup {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1008px;
+}
+.svgscissors {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1056px;
+}
+.svgfilter {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1056px;
+}
+.svgfont {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1056px;
+}
+.svgligature {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1056px;
+}
+.svgligature2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1056px;
+}
+.svgtext-height {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1056px;
+}
+.svgtext-width {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1056px;
+}
+.svgfont-size {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1056px;
+}
+.svgbold {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1056px;
+}
+.svgunderline {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1056px;
+}
+.svgitalic {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1056px;
+}
+.svgstrikethrough {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1056px;
+}
+.svgomega {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1056px;
+}
+.svgsigma {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1056px;
+}
+.svgpage-break {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1056px;
+}
+.svgsuperscript {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1056px;
+}
+.svgsubscript {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1104px;
+}
+.svgsuperscript2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1104px;
+}
+.svgsubscript2 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1104px;
+}
+.svgtext-color {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1104px;
+}
+.svgpagebreak {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1104px;
+}
+.svgclear-formatting {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1104px;
+}
+.svgtable {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1104px;
+}
+.svgtable2 {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1104px;
+}
+.svginsert-template {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1104px;
+}
+.svgpilcrow {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1104px;
+}
+.svgltr {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1104px;
+}
+.svgrtl {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1104px;
+}
+.svgsection {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1104px;
+}
+.svgparagraph-left {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1104px;
+}
+.svgparagraph-center {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1104px;
+}
+.svgparagraph-right {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1104px;
+}
+.svgparagraph-justify {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1152px;
+}
+.svgindent-increase {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1152px;
+}
+.svgindent-decrease {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1152px;
+}
+.svgshare {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1152px;
+}
+.svgnew-tab {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1152px;
+}
+.svgembed {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1152px;
+}
+.svgembed2 {
+  width: 40px;
+  height: 32px;
+  background-position: -288px -1152px;
+}
+.svgterminal {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1152px;
+}
+.svgshare2 {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1152px;
+}
+.svgmail {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1152px;
+}
+.svgmail2 {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1152px;
+}
+.svgmail3 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1152px;
+}
+.svgmail4 {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1152px;
+}
+.svgamazon {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1152px;
+}
+.svggoogle {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1152px;
+}
+.svggoogle2 {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1152px;
+}
+.svggoogle3 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1200px;
+}
+.svggoogle-plus {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1200px;
+}
+.svggoogle-plus2 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1200px;
+}
+.svggoogle-plus3 {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1200px;
+}
+.svghangouts {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1200px;
+}
+.svggoogle-drive {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1200px;
+}
+.svgfacebook {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1200px;
+}
+.svgfacebook2 {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1200px;
+}
+.svginstagram {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1200px;
+}
+.svgwhatsapp {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1200px;
+}
+.svgspotify {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1200px;
+}
+.svgtelegram {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1200px;
+}
+.svgtwitter {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1200px;
+}
+.svgvine {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1200px;
+}
+.svgvk {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1200px;
+}
+.svgrenren {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1200px;
+}
+.svgsina-weibo {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1248px;
+}
+.svgrss {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1248px;
+}
+.svgrss2 {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1248px;
+}
+.svgyoutube {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1248px;
+}
+.svgyoutube2 {
+  width: 80px;
+  height: 32px;
+  background-position: -192px -1248px;
+}
+.svgtwitch {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1248px;
+}
+.svgvimeo {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1248px;
+}
+.svgvimeo2 {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1248px;
+}
+.svglanyrd {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1248px;
+}
+.svgflickr {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1248px;
+}
+.svgflickr2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1248px;
+}
+.svgflickr3 {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1248px;
+}
+.svgflickr4 {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1248px;
+}
+.svgdribbble {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1248px;
+}
+.svgbehance {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1248px;
+}
+.svgbehance2 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1296px;
+}
+.svgdeviantart {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1296px;
+}
+.svg500px {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1296px;
+}
+.svgsteam {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1296px;
+}
+.svgsteam2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1296px;
+}
+.svgdropbox {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1296px;
+}
+.svgonedrive {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1296px;
+}
+.svggithub {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1296px;
+}
+.svgnpm {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1296px;
+}
+.svgbasecamp {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1296px;
+}
+.svgtrello {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1296px;
+}
+.svgwordpress {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1296px;
+}
+.svgjoomla {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1296px;
+}
+.svgello {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1296px;
+}
+.svgblogger {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1296px;
+}
+.svgblogger2 {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1296px;
+}
+.svgtumblr {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1344px;
+}
+.svgtumblr2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1344px;
+}
+.svgyahoo {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1344px;
+}
+.svgyahoo2 {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1344px;
+}
+.svgtux {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1344px;
+}
+.svgappleinc {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1344px;
+}
+.svgfinder {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1344px;
+}
+.svgandroid {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1344px;
+}
+.svgwindows {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1344px;
+}
+.svgwindows8 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1344px;
+}
+.svgsoundcloud {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1344px;
+}
+.svgsoundcloud2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1344px;
+}
+.svgskype {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1344px;
+}
+.svgreddit {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1344px;
+}
+.svghackernews {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1344px;
+}
+.svgwikipedia {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1344px;
+}
+.svglinkedin {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1392px;
+}
+.svglinkedin2 {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1392px;
+}
+.svglastfm {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1392px;
+}
+.svglastfm2 {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1392px;
+}
+.svgdelicious {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1392px;
+}
+.svgstumbleupon {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1392px;
+}
+.svgstumbleupon2 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1392px;
+}
+.svgstackoverflow {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1392px;
+}
+.svgpinterest {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1392px;
+}
+.svgpinterest2 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1392px;
+}
+.svgxing {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1392px;
+}
+.svgxing2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1392px;
+}
+.svgflattr {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1392px;
+}
+.svgfoursquare {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1392px;
+}
+.svgyelp {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1392px;
+}
+.svgpaypal {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1392px;
+}
+.svgchrome {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1440px;
+}
+.svgfirefox {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1440px;
+}
+.svgIE {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -1440px;
+}
+.svgedge {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1440px;
+}
+.svgsafari {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1440px;
+}
+.svgopera {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -1440px;
+}
+.svgfile-pdf {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1440px;
+}
+.svgfile-openoffice {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1440px;
+}
+.svgfile-word {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1440px;
+}
+.svgfile-excel {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -1440px;
+}
+.svglibreoffice {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -1440px;
+}
+.svghtml-five {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -1440px;
+}
+.svghtml-five2 {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -1440px;
+}
+.svgcss3 {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -1440px;
+}
+.svggit {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1440px;
+}
+.svgcodepen {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -1440px;
+}
+.svgsvg {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1488px;
+}
+.svgIcoMoon {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1488px;
+}

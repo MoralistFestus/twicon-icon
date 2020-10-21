@@ -1,62 +1,3 @@
-@font-face {
-  font-family: 'twicon'; /* ' ' */
-  font-family: 'fontello';
-  src: url('../font/twicon.eot?66537072');
-  src: url('../font/twicon.eot?66537072#iefix') format('embedded-opentype'),
-       url('../font/twicon.woff2?66537072') format('woff2'),
-       url('../font/twicon.woff?66537072') format('woff'),
-       url('../font/twicon.ttf?66537072') format('truetype'),
-       url('../font/twicon.svg?66537072#twicon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
-/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
-/*
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-  @font-face {
-    font-family: 'fontello';
-    src: url('../font/twicon.svg?66537072#twicon') format('svg');
-  }
-}
-*/
- 
- [class^="twicon-"]:before, [class*=" twicon-"]:before {
-  font-family: "fontello";
-  font-style: normal;
-  font-weight: normal;
-  speak: never;
-  font-size: inherit;
-  display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
-  margin-right: .2em;
-  text-align: center;
-  /* opacity: .8; */
- 
-  /* For safety - reset parent styles, that can break glyph codes*/
-  font-variant: normal;
-  text-transform: none;
- 
-  /* fix buttons height, for twitter bootstrap */
-  line-height: 1em;
- 
-  /* Animation center compensation - margins should be symmetric */
-  /* remove if not needed */
-  margin-left: .2em;
- 
-  /* you can be more comfortable with increased icons size */
-  /* font-size: 120%; */
- 
-  /* Font smoothing. That was taken from TWBS */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
- 
-  /* Uncomment for 3D effect */
-  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
-}
-
-
 
  /* Font sizing */
 
@@ -1000,3 +941,83 @@
 .twicon-twitter-squared:before { content: '\f304'; } /* '' */
 .twicon-facebook-squared:before { content: '\f308'; } /* '' */
 .twicon-linkedin-squared:before { content: '\f30c'; } /* '' */
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; 
+ }
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto; 
+ }
+  
+@font-face {
+  font-family: 'twicon'; /* ' ' */
+  font-family: 'fontello';
+  src: url('../font/twicon.eot?66537072');
+  src: url('../font/twicon.eot?66537072#iefix') format('embedded-opentype'),
+       url('../font/twicon.woff2?66537072') format('woff2'),
+       url('../font/twicon.woff?66537072') format('woff'),
+       url('../font/twicon.ttf?66537072') format('truetype'),
+       url('../font/twicon.svg?66537072#twicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/twicon.svg?66537072#twicon') format('svg');
+  }
+}
+*/
+ 
+ [class^="twicon-"]:before, [class*=" twicon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+  font-size: inherit;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+

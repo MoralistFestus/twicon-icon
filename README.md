@@ -42,11 +42,7 @@
 
 ## Contents - Documentation
 
-<details>
-  <summary>
-    🚀 Basic Usage
-  </summary>
-
+### 🚀 Basic Usage
 <br />
 
 ### CDN
@@ -86,12 +82,10 @@ The twicon icons Component is an easy and performant way to use twicon in your a
 	<i class="twicon-home"></i>
 ```
 
-</details>
 
-<details>
-  <summary>
-    ⚡ Variant
-  </summary>
+
+### ⚡ Variant
+ 
 
 <br />
 
@@ -113,12 +107,7 @@ Each app icon in twicon has a/an `empty`, `squared` `border` `border-circle` and
 ```
 
 
-</details>
-
-<details>
-  <summary>
-    🌟 Size 
-  </summary>
+### 🌟 Size 
 
 <br />
 
@@ -148,12 +137,8 @@ Or you can set a specific size by applying the `font-size` CSS property on the `
 }
 ```
 
-</details>
 
-<details>
-  <summary>
-    🎨 Colors
-  </summary>
+### 🎨 Colors
   
 <br />
 
@@ -178,12 +163,7 @@ Specify your own icon color by applying the `color` CSS property on the `.twicon
 }
 ```
 
-</details>
-
-<details>
-  <summary>
-    🎉 Postitioning
-  </summary>
+### 🎉 Postitioning
 
 <br />
 
@@ -197,11 +177,7 @@ Specify Icon position by applying the `pull-left` or `pull-right` class componen
 	<i class="twicon-download pull-left"></i>
 ```
 
-</details>
-<details>
-  <summary>
-    🎆 Rotating 
-  </summary>
+### 🎆 Rotating 
 
 <br />
 
@@ -237,13 +213,8 @@ Specify animation function by applying the `animate-spin` class component. E.g �
 	<i class="twicon-camera twicon-5x animate-spin"></i>
 ```
 
-</details>
 
-<details>
-  <summary>
-    🌌 Versions 
-  </summary>
-
+### 🌌 Versions 
 <br />
 
 Twicon latest release is **v1.3.2** - recommended for development and production purposes. 
@@ -255,12 +226,8 @@ Twicon latest release is **v1.3.2** - recommended for development and production
 
 Need older versions of twicon, check the releases section to get the older versions based on tagged version.
 
-</details>
 
-<details>
-  <summary>
-    👐 Contributing
-  </summary>
+### 👐 Contributing
   
 <br /> 
 
